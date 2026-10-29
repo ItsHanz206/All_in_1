@@ -10,7 +10,7 @@
     <string>Hồ sơ cầu hình VIP chặn thu hồi Locket Gold vĩnh viễn.&#10;@itshanz206</string>
 
     <key>PayloadIdentifier</key>
-    <string>com.duyvinh09.locketgold.profile</string>
+    <string>com.itshanz206.locketgold.profile</string>
 
     <key>PayloadScope</key>
     <string>System</string>
@@ -51,7 +51,7 @@
             <string>com.apple.dnsSettings.managed</string>
 
             <key>PayloadIdentifier</key>
-            <string>com.duyvinh09.locketgold.dns</string>
+            <string>com.itshanz206.locketgold.dns</string>
 
             <key>PayloadUUID</key>
             <string>6E7D9C2A-5B41-4F83-9A62-D1E0B7C845AF</string>
