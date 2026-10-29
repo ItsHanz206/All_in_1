@@ -1,16 +1,15 @@
-//Hanz đi vọc code, code gốc của duyvinh09
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
     <key>PayloadDisplayName</key>
-    <string>LOCKET GOLD 💜</string>
+    <string>Locket Gold 💜</string>
 
     <key>PayloadDescription</key>
     <string>Hồ sơ cầu hình VIP chặn thu hồi Locket Gold vĩnh viễn.&#10;IG:_its.hanz.nvrluv_</string>
 
     <key>PayloadIdentifier</key>
-    <string>com.itshanz206.locketgold.profile</string>
+    <string>com.duyvinh09.locketgold.profile</string>
 
     <key>PayloadScope</key>
     <string>System</string>
@@ -51,7 +50,7 @@
             <string>com.apple.dnsSettings.managed</string>
 
             <key>PayloadIdentifier</key>
-            <string>com.itshanz206.locketgold.dns</string>
+            <string>com.duyvinh09.locketgold.dns</string>
 
             <key>PayloadUUID</key>
             <string>6E7D9C2A-5B41-4F83-9A62-D1E0B7C845AF</string>
