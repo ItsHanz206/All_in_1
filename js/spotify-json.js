@@ -1,3 +1,4 @@
+//Hanz đi mò code, code gốc dev: duyvinh09
 console.log(`spotify-json-2025.01.09`);
 let url = $request.url;
 if (url.includes('com:443')) {
