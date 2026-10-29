@@ -1,4 +1,3 @@
-//Hanz đi vọc code, custom. Tất cả ideas và code của dev: duyvinh09
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
@@ -7,7 +6,7 @@
     <string>Locket Gold 💜</string>
 
     <key>PayloadDescription</key>
-    <string>Hồ sơ cầu hình VIP chặn thu hồi Locket Gold vĩnh viễn.&#10;IG:_its.hanz.nvrluv_</string>
+    <string>Hồ sơ cầu hình VIP chặn thu hồi Locket Gold vĩnh viễn.&#10;@itshanz</string>
 
     <key>PayloadIdentifier</key>
     <string>com.duyvinh09.locketgold.profile</string>
